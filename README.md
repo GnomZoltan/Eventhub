@@ -1,4 +1,3 @@
 # EventHub
-### Backend. Dual-study Softserve project
-> Event Hub is an interactive map that shows all the events of the city near you. The user can both create an event and find an existing one. You can filter the events you want (eg travel/sports).
-#### Made by six enthusiastic SENIOR programmers 😎
+### Dual-study Softserve project
+> EventHub is like a busy marketplace where people can easily check out different events or even plan their own. It's all about helping folks make new friends and have meaningful chats. With its easy-to-use setup and lots of options, EventHub is like a virtual meeting spot for those who want to hang out with people who share their interests, find cool stuff to do, and meet new pals. Whether you're into concerts, hiking, or book clubs, EventHub lets you connect with others, swap stories, and build friendships that go beyond just your local area.
